@@ -34,3 +34,5 @@ ZSH_THEME="typewritten"
 export TYPEWRITTEN_SYMBOL="λ"
 export TYPEWRITTEN_PROMPT_LAYOUT="singleline_verbose"
 ```
+
+![](shell.png)
